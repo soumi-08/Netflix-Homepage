@@ -1,2 +1,2 @@
-# task2-netflix-homepage
-Bharat intern task 2
+# task3-netflix-homepage
+Bharat intern task 3
